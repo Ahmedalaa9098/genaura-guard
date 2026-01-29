@@ -1,0 +1,21 @@
+# Source files (dist is published)
+src/
+tsconfig.json
+
+# Development
+node_modules/
+*.log
+.DS_Store
+
+# Git
+.git/
+.gitignore
+
+# Tests
+tests/
+__tests__/
+*.test.ts
+coverage/
+
+# Docs
+CHANGELOG.md
